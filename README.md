@@ -1,4 +1,6 @@
-# Gh0stjaw's fork of LukeSmithxyz's patched st - the simple (suckless) terminal
+# Gh0stjaw's st.
+
+This is a fork of LukeSmithxyz's patched st - the simple (suckless) terminal
 
 I'm not taking credit for anything but my own changes to LukeSmithxyz version of st.
 
