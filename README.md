@@ -3,7 +3,7 @@
 This is a fork of LukeSmithxyz's patched st - the simple (suckless) terminal
 
 I'm not taking credit for anything but my own changes to LukeSmithxyz version of st.
-
+<Details>
 The [suckless terminal (st)](https://st.suckless.org/) with some additional
 features that make it literally the best terminal emulator ever (my hat off to you Luke):
 
@@ -81,5 +81,4 @@ To be clear about the color settings:
 - But if `wal` has run in your session, its colors will take priority.
 
 Note that when you run `wal`, it will negate the transparency of existing windows, but new windows will continue with the previously defined transparency.
-
-## Contact
+</Details>
